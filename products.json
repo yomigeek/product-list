@@ -16,30 +16,30 @@
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
+     "id": 1,
+     "name": "Egg baloon",
       "category": "pets",
-       "price": 100,
+       "price": 10,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619128884/bejamas/pexels-arianna-jad%C3%A9-4754648.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
+     "id": 2,
+     "name": "Wild",
       "category": "pets",
-       "price": 100,
+       "price": 3.89,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619084045/bejamas/pexels-ricardo-esquivel-2462825.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": "false",
         "featured": "false",
         "details": "null"
       },
