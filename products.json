@@ -1,17 +1,19 @@
 {
-"total": 100,
+"total": 20,
 "entries": [
   {
-  "title": "Wolf Creek",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-  "programType": "series",
-  "images": {
-      "Poster Art": {
-        "url": "https://streamcoimg-a.akamaihd.net/000/128/61/12861-PosterArt-ec32a81986a45eac7e080112075ab466.jpg",
-        "width": 1000,
-        "height": 1500
-      }
-    }
-  }
+     "id": 0,
+    "name": "Samurai King Resting",
+    "category": "pets",
+    "price": 100,
+    "currency": "USD",
+    "image": {
+      "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+      "alt": "pic",
+    },
+    "bestseller": true,
+    "featured": false,
+    "details": null,
+  },
 ]
 }
