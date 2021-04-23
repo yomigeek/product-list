@@ -73,8 +73,8 @@
       },
      {
      "id": 5,
-     "name": "Resting",
-      "category": "people",
+     "name": "Cool woman",
+      "category": "premium",
        "price": 10,
        "currency": "USD",
        "image": {
@@ -102,7 +102,7 @@
      {
      "id": 7,
      "name": "Wood",
-      "category": "landmark",
+      "category": "landmarks",
        "price": 60,
        "currency": "USD",
        "image": {
@@ -270,8 +270,8 @@
      {
      "id": 19,
      "name": "Miranda",
-      "category": "pets",
-       "price": 4.5,
+      "category": "premium",
+       "price": 300,
        "currency": "USD",
        "image": {
          "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173556/bejamas/pexels-anderson-miranda-1926710.jpg",
