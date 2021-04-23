@@ -11,21 +11,21 @@
          "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
      "id": 1,
      "name": "Egg baloon",
-      "category": "pets",
+      "category": "people",
        "price": 10,
        "currency": "USD",
        "image": {
          "src":"https://res.cloudinary.com/kugoo/image/upload/v1619128884/bejamas/pexels-arianna-jad%C3%A9-4754648.jpg",
          "alt": "pic"
         },
-        "bestseller": false,
+        "bestseller": true,
         "featured": "false",
         "details": "null"
       },
@@ -39,245 +39,245 @@
          "src":"https://res.cloudinary.com/kugoo/image/upload/v1619084045/bejamas/pexels-ricardo-esquivel-2462825.jpg",
          "alt": "pic"
         },
-        "bestseller": "false",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
+     "id": 3,
+     "name": "Kings",
+      "category": "people",
        "price": 100,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173558/bejamas/pexels-vin%C3%ADcius-estev%C3%A3o-2592282.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
+     "id": 4,
+     "name": "Home home",
       "category": "pets",
-       "price": 100,
+       "price": 1,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173557/bejamas/pexels-vinicius-altava-2657600.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
-       "price": 100,
+     "id": 5,
+     "name": "Resting",
+      "category": "people",
+       "price": 10,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173557/bejamas/pexels-vinicius-altava-2657600.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
-       "price": 100,
+     "id": 6,
+     "name": "Yummy",
+      "category": "food",
+       "price": 150,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173558/bejamas/pexels-vincent-rivaud-3138578.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
-       "price": 100,
+     "id": 7,
+     "name": "Wood",
+      "category": "landmark",
+       "price": 60,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173557/bejamas/pexels-tom%C3%A1%C5%A1-mal%C3%ADk-3591557.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": true,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
+     "id": 8,
+     "name": "Milky",
+      "category": "food",
        "price": 100,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173557/bejamas/pexels-nuruddin-bharmal-3547176.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
-       "price": 100,
+     "id": 9,
+     "name": "Nick",
+      "category": "nature",
+       "price": 205,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173557/bejamas/pexels-nick-wehrli-3393450.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
-       "price": 100,
+     "id": 10,
+     "name": "Thunder",
+      "category": "nature",
+       "price": 3.5,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173557/bejamas/pexels-rodrigo-souza-2531709.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
+     "id": 11,
+     "name": "Ice Bergs",
+      "category": "nature",
        "price": 100,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173557/bejamas/pexels-louis-3612313.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
-       "price": 100,
+     "id": 12,
+     "name": "Sweet Beach",
+      "category": "nature",
+       "price": 25,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173557/bejamas/pexels-jess-vide-4319777.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
-       "price": 100,
+     "id": 13,
+     "name": "The Man",
+      "category": "people",
+       "price": 150,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173557/bejamas/pexels-daria-shevtsova-3597081.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
+     "id": 14,
+     "name": "Burger",
+      "category": "food",
        "price": 100,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173557/bejamas/pexels-mister-mister-3636958.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
-       "price": 100,
+     "id": 15,
+     "name": "Legumes",
+      "category": "food",
+       "price": 5.5,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173556/bejamas/pexels-ba-tik-3754300.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
+     "id": 16,
+     "name": "Mother Nature",
+      "category": "nature",
        "price": 100,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173556/bejamas/pexels-anni-roenkae-2156881.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
+     "id": 17,
+     "name": "The Home",
+      "category": "cities",
        "price": 100,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619084045/bejamas/pexels-ricardo-esquivel-2462825.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
-      "category": "pets",
-       "price": 100,
+     "id": 18,
+     "name": "The Lady",
+      "category": "people",
+       "price": 35,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173556/bejamas/pexels-ali-pazani-4100444.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       },
      {
-     "id": 0,
-     "name": "Samurai King Resting",
+     "id": 19,
+     "name": "Miranda",
       "category": "pets",
-       "price": 100,
+       "price": 4.5,
        "currency": "USD",
        "image": {
-         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619173556/bejamas/pexels-anderson-miranda-1926710.jpg",
          "alt": "pic"
         },
-        "bestseller": "true",
+        "bestseller": false,
         "featured": "false",
         "details": "null"
       }
