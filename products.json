@@ -1,19 +1,285 @@
 {
   "total": 20,
   "entries": [
-   {
-   "id": 0,
-   "name": "Samurai King Resting",
-    "category": "pets",
-     "price": 100,
-     "currency": "USD",
-     "image": {
-       "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
-       "alt": "pic"
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
       },
-      "bestseller": "true",
-      "featured": "false",
-      "details": "null"
-    }
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
+     {
+     "id": 0,
+     "name": "Samurai King Resting",
+      "category": "pets",
+       "price": 100,
+       "currency": "USD",
+       "image": {
+         "src":"https://res.cloudinary.com/kugoo/image/upload/v1619124424/bejamas/dog.png",
+         "alt": "pic"
+        },
+        "bestseller": "true",
+        "featured": "false",
+        "details": "null"
+      },
   ]
-  }
+}
